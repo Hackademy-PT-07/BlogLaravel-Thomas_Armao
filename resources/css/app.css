@@ -1,0 +1,10 @@
+@import 'bootstrap';
+
+@import 'bootstrap-icons';
+
+.likeButton{
+    border: none;
+    color:rgb(17, 65, 225);
+    background-color: transparent;
+    margin-left: 0.5rem;
+}
